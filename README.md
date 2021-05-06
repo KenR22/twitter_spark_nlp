@@ -6,8 +6,7 @@ The source of the dataset is https://www.kaggle.com/ayushggarg/all-trumps-twitte
 The notebook contains all the code for the project. The code is optimized to be run on google colab.
 
 The short description of files are given below:
-
-'''
+```
 │   LICENSE
 │   README.md
 │   bds_project.ipynb # analysis code 
@@ -16,4 +15,4 @@ The short description of files are given below:
 │       trump_insult_tweets_2014_to_2021.csv # actual data
 │
 └───plots   #contains static plots from the notebook 
-'''
+```
